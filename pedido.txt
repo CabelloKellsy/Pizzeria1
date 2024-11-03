@@ -1,0 +1,6 @@
+ Pedido:
+    - Masa: normal - Precio: NaN€
+    - Ingredientes:
+    * nombre - Precio: NaN€
+* nombre - Precio: 6.03€ 
+Precio total: 10.56€ 
